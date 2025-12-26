@@ -1,5 +1,5 @@
 # Exp2
-``java
+```java
 import java.util.Scanner; 
 public class QuadraticEquation { 
     public static void main(String[] args) { 
@@ -28,7 +28,8 @@ public class QuadraticEquation {
             System.out.println("The roots are complex and distinct."); 
             System.out.println("Root 1: " + realPart + " + " + imaginaryPart + "i"); 
             System.out.println("Root 2: " + realPart + " - " + imaginaryPart + "i"); 
-        } <img width="784" height="519" alt="Qudratic ouput" src="https://github.com/user-attachments/assets/d4d16c8b-b84b-460d-8a3c-3281b71147f9" />
-
-    } 
+        }
 }
+}
+```
+<img width="784" height="519" alt="Qudratic ouput" src="https://github.com/user-attachments/assets/d4d16c8b-b84b-460d-8a3c-3281b71147f9" />
